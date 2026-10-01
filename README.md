@@ -11,4 +11,4 @@ I am an aspiring software developer with five co-op and internship terms behind 
 - 📧 Email: jasoncruse2002@gmail.com
 
 ## ⭐ Featured Repository 
-Async Order Processing System: [OrderProcessor](https://github.com/jasoncruse71/OrderProcessor)
+📦 Async Order Processing System: [OrderProcessor](https://github.com/jasoncruse71/OrderProcessor)
