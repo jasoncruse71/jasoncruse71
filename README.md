@@ -1,13 +1,14 @@
 # Hi there! I'm Jason Cruse 👋
 I am an aspiring software developer with five co-op and internship terms behind me, and my experience spans industrial automation and the mining industry. I enjoy solving and building solutions to problems that have a real-world impact, and I take a holistic approach to each one.
 
-## Skills and Tech stack 
+## 🛠️ Skills and Tech stack 
 Languages & Frameworks : C, C++, C#, .NET, Java, Rust, HTML, CSS, XAML, SQL
-Databases : MySQL, PostgreSQL
+Developer Tools : Visual Studio, Git, Azure Devop's, PowerApps 
+Databases & API's : MySQL, PostgreSQL, RESTful APIs
 
-## Let's Connect
+## 📬 Let's Connect
 - [LinkedIn](https://linkedin.com/in/jasoncruse71)
 - 📧: jasoncruse2002@gmail.com
 
-## Featured Repository 
+## ⭐ Featured Repository 
 Backend OrderProcessor : [OrderProcessor](https://github.com/jasoncruse71/OrderProcessor)
