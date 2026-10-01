@@ -1,5 +1,5 @@
 # Hi there! I'm Jason Cruse 👋
-I am an aspiring Software Developer having completed 5 Co-op's/Internships, and my expertise varies from industrial automation to the mineral industry. My favourite problems to solve, and implement are the ones that have a real impact on the world, and I like to take a holistic approach when solving these problems. 
+I am an aspiring software developer with five co-op and internship terms behind me, and my experience spans industrial automation and the mining industry. I enjoy solving and building solutions to problems that have a real-world impact, and I take a holistic approach to each one.
 
 ## Skills and Tech stack 
 Languages & Frameworks : C, C++, C#, .NET, Java, Rust, HTML, CSS, XAML, SQL
