@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm Jason Cruse 👋
+I am an aspiring Software Developer having completed 5 Co-op's/Internships, and my expertise varies from industrial automation to the mineral industry. My favourite problems to solve, and implement are the ones that have a real impact on the world, and I like to take a holistic approach when solving these problems. 
 
-<!--
-**jasoncruse71/jasoncruse71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Tech stack 
+Languages & Frameworks : C, C++, C#, .NET, Java, Rust, HTML, CSS, XAML, SQL
+Databases : MySQL, PostgreSQL
 
-Here are some ideas to get you started:
+## Let's Connect
+- [LinkedIn](https://linkedin.com/in/jasoncruse71)
+- 📧: jasoncruse2002@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repository 
+Backend OrderProcessor : [OrderProcessor](https://github.com/jasoncruse71/OrderProcessor)
