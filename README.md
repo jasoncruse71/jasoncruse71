@@ -10,9 +10,6 @@ I am an aspiring software developer with five co-op and internship terms behind 
 ## ⭐ Featured Repository
 📦 **Async Order Processing System:** [OrderProcessor](https://github.com/jasoncruse71/OrderProcessor)
 
-## 📊 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jason_cruses?theme=dark&ext=heatmap)](https://leetcode.com/jason_cruses)
-
 ## 🔭 Currently Exploring
 - **AI & ML:** machine learning fundamentals and integrating LLM APIs into applications
 
